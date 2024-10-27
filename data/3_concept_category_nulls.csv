@@ -1,0 +1,588 @@
+concept_id,category_id,nulls
+24,83,OK
+24,84,OK
+24,88,OK
+24,96,OK
+65,966,OK
+24,97,OK
+24,90,OK
+24,95,OK
+24,89,OK
+24,87,OK
+24,177,OK
+24,628,"image, sound"
+24,627,"image, sound"
+24,631,"image, sound"
+24,634,"image, sound"
+24,630,"image, sound"
+24,633,"image, sound"
+24,637,"image, sound"
+24,635,"title_sound, image, sound"
+24,641,"title_sound, image, sound"
+24,640,"image, sound"
+24,642,"image, sound"
+24,639,"image, sound"
+24,643,"image, sound"
+24,629,"title_sound, image, sound"
+24,646,"image, sound"
+24,649,"image, sound"
+24,651,"image, sound"
+24,648,"image, sound"
+24,654,"image, sound"
+24,652,"image, sound"
+24,655,"image, sound"
+24,657,"image, sound"
+24,660,"image, sound"
+24,636,"image, sound"
+24,659,"title_sound, image, sound"
+24,645,"image, sound"
+24,647,"title_sound, image, sound"
+24,661,"image, sound"
+24,666,"image, sound"
+24,663,"image, sound"
+24,665,"title_sound, image, sound"
+24,667,"image, sound"
+24,672,"image, sound"
+24,653,"title_sound, image, sound"
+24,673,"image, sound"
+24,669,"image, sound"
+24,658,"image, sound"
+24,675,"image, sound"
+24,676,"image, sound"
+24,677,"title_sound, image, sound"
+24,678,"image, sound"
+24,664,"image, sound"
+24,681,"image, sound"
+24,670,"image, sound"
+24,685,"image, sound"
+24,671,"title_sound, image, sound"
+24,691,"image, sound"
+24,684,"image, sound"
+24,689,"title_sound, image, sound"
+24,687,"image, sound"
+24,693,"image, sound"
+24,690,"image, sound"
+24,695,"title_sound, image, sound"
+24,679,"image, sound"
+24,697,"image, sound"
+24,699,"image, sound"
+24,696,"image, sound"
+24,683,"title_sound, image, sound"
+24,682,"image, sound"
+24,702,"image, sound"
+24,688,"image, sound"
+24,705,"image, sound"
+24,703,"image, sound"
+24,707,"title_sound, image, sound"
+24,708,"image, sound"
+24,712,"image, sound"
+24,713,"title_sound, image, sound"
+24,711,"image, sound"
+24,709,"image, sound"
+24,694,"image, sound"
+24,715,"image, sound"
+24,714,"image, sound"
+24,717,"image, sound"
+24,718,"image, sound"
+24,701,"title_sound, image, sound"
+24,700,"image, sound"
+24,719,"title_sound, image, sound"
+24,721,"image, sound"
+24,720,"image, sound"
+24,706,"image, sound"
+24,725,"title_sound, image, sound"
+24,726,"image, sound"
+24,724,"image, sound"
+24,723,"image, sound"
+24,729,"image, sound"
+24,730,"image, sound"
+24,727,"image, sound"
+24,731,"title_sound, image, sound"
+24,732,"image, sound"
+24,736,"image, sound"
+24,733,"image, sound"
+24,738,"image, sound"
+24,735,"image, sound"
+24,737,"title_sound, image, sound"
+24,739,"image, sound"
+24,741,"image, sound"
+24,742,"image, sound"
+24,743,"title_sound, image, sound"
+24,747,"image, sound"
+24,749,"title_sound, image, sound"
+24,744,"image, sound"
+24,745,"image, sound"
+24,748,"image, sound"
+24,750,"image, sound"
+24,753,"image, sound"
+24,754,"image, sound"
+24,751,"image, sound"
+24,755,"title_sound, image, sound"
+24,756,"image, sound"
+24,757,"image, sound"
+24,760,"image, sound"
+24,761,"title_sound, image, sound"
+24,762,"image, sound"
+24,763,"image, sound"
+24,765,"image, sound"
+24,759,"image, sound"
+24,766,"image, sound"
+24,767,"title_sound, image, sound"
+24,768,"image, sound"
+24,769,"image, sound"
+24,771,"image, sound"
+24,773,"title_sound, image, sound"
+24,774,"image, sound"
+24,775,"image, sound"
+24,777,"image, sound"
+24,772,"image, sound"
+24,779,"title_sound, image, sound"
+24,780,"image, sound"
+24,781,"image, sound"
+24,778,"image, sound"
+59,417,OK
+59,416,OK
+25,85,OK
+25,86,OK
+27,93,OK
+32,103,OK
+60,418,"image, sound"
+60,944,"image, sound"
+62,945,"image, sound"
+63,946,"image, sound"
+47,181,"image, sound"
+47,183,OK
+47,184,OK
+47,185,OK
+47,186,OK
+47,189,OK
+47,191,OK
+47,187,image
+47,192,OK
+47,195,OK
+47,188,OK
+47,182,OK
+47,193,OK
+47,190,OK
+47,194,OK
+66,967,OK
+26,91,OK
+26,92,OK
+31,98,OK
+31,100,image
+31,101,OK
+28,102,"image, sound"
+28,94,OK
+28,178,OK
+28,179,OK
+28,180,"image, sound"
+28,345,OK
+28,925,OK
+61,788,"image, sound"
+61,790,"title_sound, image, sound"
+61,795,"image, sound"
+61,798,"image, sound"
+61,800,"image, sound"
+61,802,"title_sound, image, sound"
+61,801,"image, sound"
+61,789,"image, sound"
+61,803,"image, sound"
+61,812,"image, sound"
+61,818,"image, sound"
+61,819,"image, sound"
+61,808,"title_sound, image, sound"
+61,822,"image, sound"
+61,832,"title_sound, image, sound"
+61,833,"image, sound"
+61,834,"image, sound"
+61,837,"image, sound"
+61,836,"image, sound"
+61,842,"image, sound"
+61,843,"image, sound"
+61,845,"image, sound"
+61,848,"image, sound"
+61,849,"image, sound"
+61,850,"title_sound, image, sound"
+61,806,"image, sound"
+61,851,"image, sound"
+61,830,"image, sound"
+61,844,"title_sound, image, sound"
+61,846,"image, sound"
+61,792,"image, sound"
+61,852,"image, sound"
+61,804,"image, sound"
+61,797,"image, sound"
+61,854,"image, sound"
+61,796,"title_sound, image, sound"
+61,858,"image, sound"
+61,821,"image, sound"
+61,831,"image, sound"
+61,857,"image, sound"
+61,860,"image, sound"
+61,862,"title_sound, image, sound"
+61,863,"image, sound"
+61,794,"image, sound"
+61,864,"image, sound"
+61,840,"image, sound"
+61,866,"image, sound"
+61,867,"image, sound"
+61,868,"title_sound, image, sound"
+61,869,"image, sound"
+61,791,"image, sound"
+61,856,"title_sound, image, sound"
+61,855,"image, sound"
+61,870,"image, sound"
+61,861,"image, sound"
+61,874,"title_sound, image, sound"
+61,820,"title_sound, image, sound"
+61,873,"image, sound"
+61,838,"title_sound, image, sound"
+61,875,"image, sound"
+61,880,"title_sound, image, sound"
+61,872,"image, sound"
+61,807,"image, sound"
+61,813,"image, sound"
+61,810,"image, sound"
+61,881,"image, sound"
+61,882,"image, sound"
+61,815,"image, sound"
+61,814,"title_sound, image, sound"
+61,816,"image, sound"
+61,876,"image, sound"
+61,885,"image, sound"
+61,878,"image, sound"
+61,879,"image, sound"
+61,886,"title_sound, image, sound"
+61,809,"image, sound"
+61,826,"title_sound, image, sound"
+61,825,"image, sound"
+61,884,"image, sound"
+61,839,"image, sound"
+61,888,"image, sound"
+61,890,"image, sound"
+61,892,"title_sound, image, sound"
+61,893,"image, sound"
+61,899,"image, sound"
+61,906,"image, sound"
+61,900,"image, sound"
+61,910,"title_sound, image, sound"
+61,909,"image, sound"
+61,887,"image, sound"
+61,916,"title_sound, image, sound"
+61,917,"image, sound"
+61,896,"image, sound"
+61,902,"image, sound"
+61,933,"image, sound"
+61,905,"image, sound"
+61,903,"image, sound"
+61,937,"image, sound"
+61,911,"image, sound"
+61,929,"title_sound, image, sound"
+61,912,"image, sound"
+61,904,"title_sound, image, sound"
+61,824,"image, sound"
+61,924,"image, sound"
+61,930,"image, sound"
+61,827,"image, sound"
+61,942,"image, sound"
+61,828,"image, sound"
+61,918,"image, sound"
+61,941,"title_sound, image, sound"
+61,921,"image, sound"
+61,923,"image, sound"
+61,927,"image, sound"
+61,928,"image, sound"
+61,934,"image, sound"
+61,931,"image, sound"
+61,935,"title_sound, image, sound"
+61,936,"image, sound"
+61,943,"image, sound"
+61,962,OK
+61,963,OK
+61,965,OK
+61,891,"image, sound"
+61,894,"image, sound"
+61,964,OK
+61,897,"image, sound"
+61,898,"title_sound, image, sound"
+61,908,"image, sound"
+61,914,"image, sound"
+61,939,"image, sound"
+61,940,"image, sound"
+61,922,"title_sound, image, sound"
+61,915,"image, sound"
+61,920,"image, sound"
+39,151,OK
+39,154,OK
+39,155,OK
+39,152,OK
+39,153,OK
+39,156,OK
+39,140,OK
+39,139,OK
+39,348,OK
+15,50,OK
+15,54,OK
+15,58,OK
+15,60,OK
+15,61,OK
+15,59,OK
+38,136,OK
+38,137,"image, sound"
+38,138,OK
+38,347,OK
+41,159,"image, sound"
+41,160,OK
+41,162,OK
+41,161,OK
+42,165,OK
+42,166,OK
+42,163,"image, sound"
+42,164,OK
+43,167,"image, sound"
+43,168,OK
+43,169,"image, sound"
+43,170,OK
+44,173,OK
+44,172,OK
+44,174,OK
+44,171,"image, sound"
+45,175,"image, sound"
+45,230,OK
+45,231,OK
+45,947,OK
+48,196,OK
+48,244,OK
+48,245,OK
+48,246,OK
+48,247,OK
+48,248,OK
+48,249,OK
+48,949,OK
+48,950,"image, sound"
+48,951,OK
+48,954,OK
+48,953,OK
+48,956,image
+48,957,OK
+48,958,OK
+48,955,OK
+40,142,OK
+40,145,OK
+40,141,"image, sound"
+40,147,OK
+48,952,OK
+40,148,OK
+40,144,OK
+34,110,OK
+34,112,OK
+34,346,"image, sound"
+51,232,OK
+51,233,OK
+51,234,OK
+51,235,OK
+51,236,OK
+51,237,"image, sound"
+51,238,"image, sound"
+51,240,"image, sound"
+51,239,"image, sound"
+51,241,"image, sound"
+51,243,"image, sound"
+51,948,OK
+51,968,"image, sound"
+33,104,OK
+51,242,"image, sound"
+33,105,OK
+33,107,OK
+33,108,"image, sound"
+33,109,OK
+33,113,OK
+33,114,OK
+33,149,OK
+33,150,OK
+33,158,OK
+33,157,OK
+33,146,OK
+49,199,OK
+49,201,"image, sound"
+49,200,OK
+49,203,OK
+49,972,OK
+1,351,OK
+1,350,"image, sound"
+7,204,OK
+3,197,OK
+3,198,"image, sound"
+3,419,OK
+8,123,"image, sound"
+3,970,OK
+49,202,"image, sound"
+9,131,OK
+9,121,"image, sound"
+9,128,OK
+9,356,OK
+9,969,"image, sound"
+10,115,OK
+10,122,OK
+11,116,OK
+11,124,OK
+35,117,OK
+35,125,OK
+35,118,OK
+35,229,OK
+50,216,OK
+50,221,OK
+50,222,OK
+50,223,OK
+50,226,OK
+50,224,OK
+50,228,OK
+50,227,OK
+50,225,OK
+50,220,OK
+50,218,OK
+50,219,OK
+50,215,OK
+50,217,OK
+2,135,OK
+2,213,OK
+2,214,"image, sound"
+2,212,OK
+2,353,"image, sound"
+2,352,OK
+36,120,"image, sound"
+36,126,OK
+36,127,OK
+36,129,OK
+36,119,"image, sound"
+36,132,OK
+36,205,OK
+36,207,OK
+36,210,OK
+36,208,"image, sound"
+36,206,OK
+36,355,"image, sound"
+36,420,OK
+36,354,"image, sound"
+36,421,"image, sound"
+36,369,OK
+6,130,OK
+6,211,OK
+20,71,OK
+20,78,OK
+20,69,OK
+20,77,OK
+20,70,OK
+20,290,"image, sound"
+20,292,OK
+20,291,OK
+21,73,OK
+21,74,OK
+21,76,OK
+21,75,OK
+54,278,OK
+54,279,OK
+54,277,OK
+53,273,OK
+53,274,OK
+53,275,OK
+53,276,OK
+67,991,"image, sound"
+19,72,OK
+19,64,OK
+19,66,OK
+19,65,OK
+68,997,OK
+56,294,OK
+56,293,OK
+56,358,OK
+22,79,OK
+55,282,"image, sound"
+55,283,OK
+55,285,OK
+55,284,OK
+52,271,OK
+52,272,OK
+52,257,"image, sound"
+52,359,OK
+52,270,OK
+52,269,OK
+18,63,OK
+18,62,"image, sound"
+18,209,"image, sound"
+18,258,OK
+18,259,OK
+18,260,image
+18,261,OK
+18,262,OK
+18,286,OK
+18,288,"image, sound"
+18,287,OK
+18,289,OK
+18,360,OK
+23,80,OK
+23,82,OK
+23,81,OK
+23,250,OK
+23,254,"image, sound"
+23,252,OK
+23,256,OK
+23,280,OK
+23,253,"image, sound"
+23,251,OK
+23,255,"image, sound"
+23,361,OK
+23,263,OK
+23,265,"image, sound"
+23,266,OK
+23,264,OK
+23,267,OK
+23,268,OK
+23,281,image
+23,994,"image, sound"
+23,1000,OK
+23,1005,"image, sound"
+23,959,OK
+16,51,OK
+64,960,OK
+17,52,OK
+17,53,OK
+82,1032,image
+76,1021,image
+76,1022,image
+76,1023,image
+76,1025,image
+76,1024,image
+81,1031,image
+87,1041,image
+83,1036,image
+88,1042,image
+90,1050,image
+77,1026,image
+77,1045,image
+77,1046,image
+73,1034,image
+73,1018,image
+84,1037,image
+71,1016,image
+70,1012,image
+70,1035,image
+80,1030,OK
+89,1044,image
+80,1029,OK
+69,1011,image
+69,1014,image
+69,1013,image
+78,1027,image
+69,1015,image
+75,1020,image
+75,1033,image
+86,1039,image
+72,1017,image
+72,1040,image
+79,1028,image
+79,1043,image
+79,1047,image
+79,1049,image
+79,1048,image
+74,1019,image
